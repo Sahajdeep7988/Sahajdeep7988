@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I am a Computer Science student passionate about t
 - **Undergraduate Researcher**  
   *Amity University, Mohali, Punjab — June 2025 to August 2025*  
   - Conducted research under university professor.
-  - Explored real time Asl to Text conversion (worked on CNN and Transfer learning . collected a labled dataset of 2.5lack videos ).  
+  - Explored real time Asl to Text conversion (worked on CNN and LSTM . collected a labled dataset of 2.5lack videos ).  
   - Developed analytical skills and hands-on experience with academic research.
 
 ---
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I am a Computer Science student passionate about t
 ## 🛠️ Skills
 
 - Programming Languages: Python, Java, C++
-- Web Development: JavaScript, HTML/CSS, React
+
 - Databases: MySQL, MongoDB
 - Tools: Git, Docker, VSCode
 
