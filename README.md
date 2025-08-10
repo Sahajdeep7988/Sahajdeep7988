@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I am a Computer Science student passionate about t
 - **Undergraduate Researcher**  
   *Amity University, Mohali, Punjab — June 2025 to August 2025*  
   - Conducted research under university professor.
-  - Explored [briefly mention research area, e.g., "machine learning applications" or "data science techniques"].  
+  - Explored real time Asl to Text conversion (worked on CNN and Transfer learning . collected a labled dataset of 2.5lack videos ).  
   - Developed analytical skills and hands-on experience with academic research.
 
 ---
@@ -35,23 +35,9 @@ Welcome to my GitHub profile! I am a Computer Science student passionate about t
 - Web Development: JavaScript, HTML/CSS, React
 - Databases: MySQL, MongoDB
 - Tools: Git, Docker, VSCode
-- [Add any other skills, libraries, or frameworks you are learning!]
 
 ---
 
-## 🚀 Projects
-
-*(Showcase your academic or personal projects here!)*
-
-- **Project Name:** [GitHub Repo Link]  
-  Brief description of the project, technology used, and your role.
-
-- **Another Project:** [GitHub Repo Link]  
-  Brief description.
-
----
-
-## 📈 GitHub Stats
 
 ![Sahajdeep Singh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahajdeep7988&show_icons=true&hide_title=true)
 
